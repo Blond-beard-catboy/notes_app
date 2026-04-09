@@ -18,8 +18,8 @@ Allows you to create, edit, and delete notes. Notes are stored locally and persi
 
 1. **Clone or download** the project:
    ```bash
-   git clone https://github.com/yourusername/notes-app.git
-   cd notes-app
+   git clone https://github.com/Blond-beard-catboy/notes_app
+   cd notes_app
    ```
 
 2. **Create a virtual environment** (optional but recommended):
